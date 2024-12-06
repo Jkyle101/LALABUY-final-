@@ -1,0 +1,19 @@
+body{
+    padding:50px;
+}
+.container{
+    max-width: 600px;
+    margin:100px auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: -20px;
+}
+.form-group{
+    margin-bottom:30px;
+}
+h1{
+    font-size: 1em;
+}
+img{
+    max-height: 400px;  
+}
